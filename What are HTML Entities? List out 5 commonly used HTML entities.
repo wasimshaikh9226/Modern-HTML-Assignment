@@ -1,0 +1,18 @@
+HTML entities are special codes used to represent characters that have a specific meaning in HTML, such as reserved characters or characters that may not render properly in browsers. They are typically used to display characters that have a special significance in HTML or to represent characters that are not easily typable on a standard keyboard. HTML entities start with an ampersand (&) and end with a semicolon (;).
+
+Here are five commonly used HTML entities:
+
+&lt; - Less Than Sign (<):
+Represents the less than symbol (<). Used to display the less than sign without the browser interpreting it as the beginning of an HTML tag.
+
+&gt; - Greater Than Sign (>):
+Represents the greater than symbol (>). Used to display the greater than sign without the browser interpreting it as the end of an HTML tag.
+
+&amp; - Ampersand (&):
+Represents the ampersand symbol (&). Used to display the ampersand without the browser interpreting it as the beginning of an HTML entity.
+
+&quot; - Double Quote ("):
+Represents the double quote symbol ("). Used to display double quotes without the browser interpreting them as the beginning or end of an HTML attribute.
+
+&copy; - Copyright Symbol (©):
+Represents the copyright symbol (©). Used to display the copyright symbol in HTML.
