@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 Features</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        }
+        header, main, footer {
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Exploring HTML5 Features</h1>
+        <nav>
+            <ul>
+                <li><a href="#semantics">Semantics</a></li>
+                <li><a href="#multimedia">Multimedia Support</a></li>
+                <li><a href="#offline">Offline Web Applications</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="semantics">
+            <h2>Semantics</h2>
+            <p>HTML5 introduces new semantic elements that provide a clearer structure to web documents. These elements include <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;footer&gt;</code>, and more.</p>
+        </section>
+
+        <section id="multimedia">
+            <h2>Multimedia Support</h2>
+            <p>HTML5 brings native support for audio and video playback without the need for third-party plugins. The <code>&lt;audio&gt;</code> and <code>&lt;video&gt;</code> elements allow developers to embed media directly into web pages.</p>
+        </section>
+
+        <section id="offline">
+            <h2>Offline Web Applications</h2>
+            <p>HTML5 introduces features like the Application Cache (<code>AppCache</code>) and Web Storage (<code>localStorage</code> and <code>sessionStorage</code>) to enable web applications to work offline or with reduced connectivity. This is achieved by caching resources locally on the user's device.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 HTML5 Features. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
